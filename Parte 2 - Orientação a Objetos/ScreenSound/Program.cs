@@ -1,37 +1,6 @@
 ﻿using ScreenSound.Models;
 
-/*
-Musica musica1 = new Musica();
-musica1.Nome = "Stairway to Heaven";
-musica1.Artista = "Led Zeppelin";
-musica1.Genero = "Rock";
-musica1.Duracao = 480;
-musica1.Disponivel = true;
-Console.WriteLine(musica1.Disponivel);
-Console.WriteLine(musica1.Descricao);
-
-Musica musica2 = new Musica();
-musica2.Nome = "Bohemian Rhapsody";
-musica2.Artista = "Queen";
-musica2.Genero = "Rock";
-musica2.Duracao = 420;
-musica2.Disponivel = false;
-Console.WriteLine(musica2.Disponivel);
-Console.WriteLine(musica2.Descricao);
-
-Musica musica3 = new Musica();
-musica3.Nome = "Hurt";
-musica3.Artista = "Jonny Cash";
-musica3.Genero = "Country";
-musica3.Duracao = 220;
-musica3.Disponivel = true;
-Console.WriteLine(musica3.Disponivel);
-Console.WriteLine(musica3.Descricao);
-
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
-musica3.ExibirFichaTecnica();
-*/
+Console.WriteLine("\n - Playlist - Metallica\n");
 
 Banda metallica = new Banda("Metallica");
 Album albumDoMetallica = new Album("...And Justice for All");
@@ -65,3 +34,18 @@ musica3.ExibirFichaTecnica();
 metallica.AdicionarAlbum(albumDoMetallica);
 metallica.ExibirDiscografia();
 
+Console.WriteLine("\n===============================\n");
+
+Console.WriteLine(" - Podcast mais ouvidos da semana\n");
+
+Episodio ep1 = new (1, "Top Series de 2023", 90);
+ep1.AdicionarConvidado("Edward");
+ep1.AdicionarConvidado("Luis");
+
+Episodio ep2 = new (2, "Técnicas de Machine Learning", 40);
+ep2.AdicionarConvidado("Daniel");
+
+Podcast podcast = new ("Podcast semanal", "Daniel");
+podcast.AdicionarEpisodio(ep1);
+podcast.AdicionarEpisodio(ep2);
+podcast.ExibirDetalhes();

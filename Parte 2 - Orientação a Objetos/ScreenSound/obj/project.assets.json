@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ALURA\\.NET\\Screen_Sound\\Parte 2 - Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\jeans\\Documentos\\ALURA\\.NET\\Screen_Sound\\Parte 2 - Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "D:\\ALURA\\.NET\\Screen_Sound\\Parte 2 - Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+      "projectPath": "C:\\Users\\jeans\\Documentos\\ALURA\\.NET\\Screen_Sound\\Parte 2 - Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\jeans\\.nuget\\packages\\",
-      "outputPath": "D:\\ALURA\\.NET\\Screen_Sound\\Parte 2 - Orientação a Objetos\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\jeans\\Documentos\\ALURA\\.NET\\Screen_Sound\\Parte 2 - Orientação a Objetos\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeans\\AppData\\Roaming\\NuGet\\NuGet.Config"
