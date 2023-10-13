@@ -1,0 +1,15 @@
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+D:\ALURA\.NET\Screen_Sound\Parte 2 - Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
