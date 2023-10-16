@@ -3,7 +3,6 @@ C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientaç
 C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
 C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
 C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
-C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
 C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
 C:\Users\jeans\Documentos\ALURA\.NET\Screen_Sound\Parte 3 - Dominado a Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
