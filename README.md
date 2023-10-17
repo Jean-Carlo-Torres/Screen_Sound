@@ -20,7 +20,7 @@
 - Desenvolvendo habilidades em programação orientada a objetos
 - Trabalhando com listas e lambdas em C#
 - Gerenciando relacionamentos entre classes no Visual Studio
-- Apliquando construtores e parâmetros em C#
+- Aplicando construtores e parâmetros em C#
 
 ### - Parte 3 - Dominando a Orientação a Objetos
 
